@@ -1,0 +1,11 @@
+.Picture{
+    height:270px;
+    margin:20px auto;
+    width:100%;
+    justify-content: left
+}
+.Picture img{
+    height:100%;
+    width:100%;
+    justify-content: left
+}

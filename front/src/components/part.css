@@ -1,0 +1,13 @@
+.Part{
+    font:red;
+
+    margin:2px auto;
+    border:2px solid rgb(188, 216, 247); 
+    background-color: #0e64d3;
+    -webkit-border-radius: 6px;
+    border-radius: 10px;
+    padding:16px;
+    height:15px;
+    justify-content:right;
+}
+    

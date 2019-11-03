@@ -1,0 +1,9 @@
+.Part3{padding:0px;
+background-color: rgb(174, 119, 238); 
+border:2px solid rgb(188, 216, 247); 
+-webkit-border-radius: 6px;
+border-radius: 20px;
+margin:0px auto;
+height:30px;
+width:50%;
+justify-content: center;}

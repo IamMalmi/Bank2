@@ -1,0 +1,16 @@
+
+table{
+    justify-content: center
+}
+
+
+th, td {
+    padding: 5px;
+    text-align: left;
+    width:33.3%;
+    height:10px;
+    background-color: rgb(216, 162, 247)
+  }
+  tr{
+      width:100%
+  }

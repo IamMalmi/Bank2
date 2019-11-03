@@ -1,0 +1,12 @@
+.Container{
+    margin:70px auto;
+    width:40%;
+    font:black;
+    border:1px rgb(1, 5, 24);
+    box-shadow:3 2px 3px rgba(1, 10, 59, 0);
+    padding:6px;
+    height:220px;
+    background-color: #2865d6;
+    
+    text-align-last: center
+}
